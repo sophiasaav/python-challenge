@@ -13,3 +13,7 @@ Analyzed election data with python to determine election results
 -Read csv file <br />
 -Analyze csv data <br />
 -Write txt file
+
+# Conclusion
+
+# Future Improvements in Analysis

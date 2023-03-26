@@ -4,7 +4,8 @@ import os
 import csv
 
 #speficication
-csvpath = os.path.join('/Users/sophiasaavedra/Desktop/ucb ext data analytics/python homework/python-challenge/PyBank/resources/budget_data.csv')
+#csvpath = os.path.join('/Users/sophiasaavedra/Desktop/ucb ext data analytics/python homework/python-challenge/PyBank/resources/budget_data.csv')
+csvpath = os.path.join("PyBank/resources/budget_data.csv")
  
 #count total months
 months = []
