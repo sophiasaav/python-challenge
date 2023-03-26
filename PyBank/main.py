@@ -4,8 +4,7 @@ import os
 import csv
 
 #speficication
-#csvpath = os.path.join('/Users/sophiasaavedra/Desktop/ucb ext data analytics/python homework/python-challenge/PyBank/resources/budget_data.csv')
-csvpath = os.path.join("PyBank/resources/budget_data.csv")
+csvpath = os.path.join('/Users/sophiasaavedra/Desktop/ucb ext data analytics/python homework/python-challenge/PyBank/resources/budget_data.csv')
  
 #count total months
 months = []
@@ -28,8 +27,6 @@ with open(csvpath) as csvfile:
         #selecting column
         profit_col = row[1]
         int1 = int(profit_col)
-        #int_list = list(map(int, profit.split()))
-       # for a in int_list:
         profit_list.append(int1)
 net_profit = sum(profit_list)
 
@@ -47,6 +44,7 @@ avg_change = int(mean(delta_list))
 
 #calculating the greatest increase in profits (date and amount) over the entire period
 inc_profit = max(delta_list)
+
 #locating the month associated with this increase
 inc_profit_index = months[(int(delta_list.index(inc_profit)) + 1)]
 inc_profit_month = inc_profit_index[0]
