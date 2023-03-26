@@ -26,9 +26,13 @@ Below is the code used to calculate the percentages of votes each candidate reci
 <img width="556" alt="sc4" src="https://user-images.githubusercontent.com/123919361/227806346-6d2bd326-e9d9-4d3a-b44f-c0b6c1d50121.png"> <img width="634" alt="sc5" src="https://user-images.githubusercontent.com/123919361/227806389-13accbf0-6765-4ada-b456-2bafe49d6868.png">
 
 ### Conclusions
-I found that during the month of August 2016 the bank had its greatest increase in profits, and that in February 2014 the bank had ist greatest decrease in profits.
+I found that during the month of August 2016 the bank had its greatest increase in profits, and that in February 2014 the bank had its greatest decrease in profits.
+
+<img width="429" alt="sc8" src="https://user-images.githubusercontent.com/123919361/227807350-1da5ac1a-e916-4470-9fa6-078b5d8fd887.png">
 
 Regarding the election data, I inferred that Diana Degette won with 73% of the popular vote.
+
+<img width="429" alt="sc9" src="https://user-images.githubusercontent.com/123919361/227807370-b1c4f458-d88f-4a52-8187-353ccf83f9fc.png">
 
 ### Opportunities for Future Exploration
 One could further analyze the banking data provided by determining whether or not certain months are correlated with decreases in profits.
